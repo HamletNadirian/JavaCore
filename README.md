@@ -32,6 +32,7 @@ cd target
 ```
 Запустіть програму
 ```
+Проект має бути попередньо зібраний! Наприклад, за допомогою команди mvn package.
 java -jar JavaCore-1.0-SNAPSHOT.jar ..\src\main\resources genre
 ```
 Результат: Буде згенеровано файл statistics_by_genre.xml в каталозі **output**
