@@ -24,16 +24,12 @@ run.bat
 ```
 Результат: Буде згенеровано файл statistics_by_genre.xml в каталозі **output**
 
-# 3. Запуск через JAR файл (з папки target)
+# 3. Запуск через JAR файл 
 
-Перейдіть в папку target
-```
-cd target
-```
 Запустіть програму
 ```
 Проект має бути попередньо зібраний! Наприклад, за допомогою команди mvn package.
-java -jar JavaCore-1.0-SNAPSHOT.jar ..\src\main\resources genre
+java -jar .\target\JavaCore-1.0-SNAPSHOT.jar .\src\main\resources producer
 ```
 Результат: Буде згенеровано файл statistics_by_genre.xml в каталозі **output**
 
