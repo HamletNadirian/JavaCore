@@ -1,0 +1,1718 @@
+[
+  {
+    "title": "The Silent Echo",
+    "producer": "Ava Marchetti",
+    "year_of_manufacture": 1923,
+    "genre": "Mystery, Thriller"
+  },
+  {
+    "title": "Glass Ashes",
+    "producer": "Leo Vok",
+    "year_of_manufacture": 1977,
+    "genre": "Sci-Fi, Dystopian"
+  },
+  {
+    "title": "Velvet Rebellion",
+    "producer": "Nia al-Hamra",
+    "year_of_manufacture": 2011,
+    "genre": "Historical Fiction"
+  },
+  {
+    "title": "The Clockmaker of Briar Lane",
+    "producer": "Piers Ashcombe",
+    "year_of_manufacture": 1889,
+    "genre": "Steampunk, Adventure"
+  },
+  {
+    "title": "Salt of the Moon",
+    "producer": "Talia Okeke",
+    "year_of_manufacture": 1994,
+    "genre": "Magical Realism"
+  },
+  {
+    "title": "Iron Petals",
+    "producer": "Jonas Kwan",
+    "year_of_manufacture": 2042,
+    "genre": "Cyberpunk"
+  },
+  {
+    "title": "The Last Librarian",
+    "producer": "Mira Petrov",
+    "year_of_manufacture": 2035,
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "title": "Ember in the Fog",
+    "producer": "Cassia Vale",
+    "year_of_manufacture": 1956,
+    "genre": "Gothic Romance"
+  },
+  {
+    "title": "Orbit of Cinders",
+    "producer": "Raj Singh",
+    "year_of_manufacture": 2091,
+    "genre": "Space Opera"
+  },
+  {
+    "title": "The Thorn Protocol",
+    "producer": "Dr. Elodie Fray",
+    "year_of_manufacture": 2029,
+    "genre": "Biopunk Thriller"
+  },
+  {
+    "title": "Beneath the Paper Sky",
+    "producer": "Noor El-Hassan",
+    "year_of_manufacture": 2003,
+    "genre": "Coming-of-Age"
+  },
+  {
+    "title": "A Choir of Static",
+    "producer": "Gideon Rourke",
+    "year_of_manufacture": 1984,
+    "genre": "Horror, Psychological"
+  },
+  {
+    "title": "The Gilded Cage",
+    "producer": "Seraphina Cruz",
+    "year_of_manufacture": 1765,
+    "genre": "Historical Romance"
+  },
+  {
+    "title": "Neon Psalm",
+    "producer": "Juno Takada",
+    "year_of_manufacture": 2077,
+    "genre": "Cyber-Noir"
+  },
+  {
+    "title": "The Cartographer’s Daughter",
+    "producer": "Felix Alder",
+    "year_of_manufacture": 1843,
+    "genre": "Adventure, Fantasy"
+  },
+  {
+    "title": "Zero at the Bone",
+    "producer": "Lila Q. Moon",
+    "year_of_manufacture": 1972,
+    "genre": "Southern Gothic"
+  },
+  {
+    "title": "Quantum Eden",
+    "producer": "Dr. Kenji Nakamura",
+    "year_of_manufacture": 2101,
+    "genre": "Hard Sci-Fi"
+  },
+  {
+    "title": "The Foxwife’s Pact",
+    "producer": "Yuna Hwang",
+    "year_of_manufacture": 1622,
+    "genre": "Mythic Fantasy"
+  },
+  {
+    "title": "Marigold Empire",
+    "producer": "Rafael Ortega",
+    "year_of_manufacture": 1938,
+    "genre": "Political Intrigue"
+  },
+  {
+    "title": "The Disposable Ones",
+    "producer": "Anika Bosch",
+    "year_of_manufacture": 2048,
+    "genre": "Dystopian, YA"
+  },
+  {
+    "title": "Crimson Ledger",
+    "producer": "Dmitri Volkov",
+    "year_of_manufacture": 1967,
+    "genre": "Espionage"
+  },
+  {
+    "title": "The Almanac of Forgotten Things",
+    "producer": "Etta Bloom",
+    "year_of_manufacture": 1910,
+    "genre": "Literary Fiction"
+  },
+  {
+    "title": "Starlight Bargain",
+    "producer": "Captain N. Haze",
+    "year_of_manufacture": 2155,
+    "genre": "Space Western"
+  },
+  {
+    "title": "Willow in the City",
+    "producer": "Sasha Rivera",
+    "year_of_manufacture": 2016,
+    "genre": "Rom-Com"
+  },
+  {
+    "title": "The Bone Choir",
+    "producer": "Rev. C. M. Pike",
+    "year_of_manufacture": 1899,
+    "genre": "Religious Horror"
+  },
+  {
+    "title": "Plastic Souls",
+    "producer": "Milo Kline",
+    "year_of_manufacture": 2089,
+    "genre": "Android Philosophy"
+  },
+  {
+    "title": "The Lemon Thief",
+    "producer": "Zara Benali",
+    "year_of_manufacture": 1979,
+    "genre": "Cozy Mystery"
+  },
+  {
+    "title": "Ashes of Tomorrow",
+    "producer": "J. D. Harlow",
+    "year_of_manufacture": 2055,
+    "genre": "Climate Fiction"
+  },
+  {
+    "title": "The Indigo Archive",
+    "producer": "Priya Desai",
+    "year_of_manufacture": 1999,
+    "genre": "Occult Thriller"
+  },
+  {
+    "title": "Hiraeth Protocol",
+    "producer": "Rhys Gwyn",
+    "year_of_manufacture": 2031,
+    "genre": "Solarpunk"
+  },
+  {
+    "title": "The Opium Cartographer",
+    "producer": "Liang Wei",
+    "year_of_manufacture": 1876,
+    "genre": "Historical Noir"
+  },
+  {
+    "title": "Saffron Rebellion",
+    "producer": "Meera Patel",
+    "year_of_manufacture": 1981,
+    "genre": "Political Drama"
+  },
+  {
+    "title": "The Hollow Season",
+    "producer": "Eleanor Graves",
+    "year_of_manufacture": 1947,
+    "genre": "Ghost Story"
+  },
+  {
+    "title": "Circuit Saint",
+    "producer": "Aiden Vale",
+    "year_of_manufacture": 2097,
+    "genre": "Tech-Mystery"
+  },
+  {
+    "title": "The Tea Witch",
+    "producer": "Ming Liao",
+    "year_of_manufacture": 1734,
+    "genre": "Historical Fantasy"
+  },
+  {
+    "title": "Neptune’s Orphans",
+    "producer": "Callisto Shaw",
+    "year_of_manufacture": 2183,
+    "genre": "Generation-Ship Epic"
+  },
+  {
+    "title": "The Paper Rebellion",
+    "producer": "Isolde Meyer",
+    "year_of_manufacture": 1849,
+    "genre": "Revolutionary Fiction"
+  },
+  {
+    "title": "Midnight Orchard",
+    "producer": "Luca Fontana",
+    "year_of_manufacture": 1963,
+    "genre": "Italian Gothic"
+  },
+  {
+    "title": "The Algorithm of Mercy",
+    "producer": "Dr. Soraya Jain",
+    "year_of_manufacture": 2026,
+    "genre": "Medical Thriller"
+  },
+  {
+    "title": "Cobalt Cathedral",
+    "producer": "Bishop K. R. Slate",
+    "year_of_manufacture": 2112,
+    "genre": "Astro-Religion"
+  },
+  {
+    "title": "The Beekeeper’s War",
+    "producer": "Hannah Fielding",
+    "year_of_manufacture": 1918,
+    "genre": "War Romance"
+  },
+  {
+    "title": "Velvet Wasteland",
+    "producer": "Rex Calico",
+    "year_of_manufacture": 1974,
+    "genre": "Post-Nuke Adventure"
+  },
+  {
+    "title": "The Dream Auction",
+    "producer": "Lina Morozova",
+    "year_of_manufacture": 2041,
+    "genre": "Dreampunk"
+  },
+  {
+    "title": "Sable Island Diaries",
+    "producer": "Capt. J. M. Firth",
+    "year_of_manufacture": 1833,
+    "genre": "Nautical Memoir"
+  },
+  {
+    "title": "The Amber Recluse",
+    "producer": "Adelina Gray",
+    "year_of_manufacture": 1959,
+    "genre": "Psychological Suspense"
+  },
+  {
+    "title": "Carbon Choir",
+    "producer": "Tariq Nassar",
+    "year_of_manufacture": 2067,
+    "genre": "Eco-Dystopia"
+  },
+  {
+    "title": "The Quilt of Years",
+    "producer": "Nora O’Sullivan",
+    "year_of_manufacture": 1929,
+    "genre": "Family Saga"
+  },
+  {
+    "title": "Obsidian Season",
+    "producer": "Kaelin Crow",
+    "year_of_manufacture": 1987,
+    "genre": "Dark Fantasy"
+  },
+  {
+    "title": "The Lamplighter’s Secret",
+    "producer": "Walter Cray",
+    "year_of_manufacture": 1885,
+    "genre": "Victorian Mystery"
+  },
+  {
+    "title": "Venusian Roulette",
+    "producer": "Jaxx Vega",
+    "year_of_manufacture": 2176,
+    "genre": "Casino Opera"
+  },
+  {
+    "title": "The Sardonyx Crown",
+    "producer": "Queen A. N. Khamisi",
+    "year_of_manufacture": 1755,
+    "genre": "Afro-Fantasy"
+  },
+  {
+    "title": "Pixelated Pilgrim",
+    "producer": "Rei Sakamoto",
+    "year_of_manufacture": 2084,
+    "genre": "Game-Lit"
+  },
+  {
+    "title": "The Salt Widow",
+    "producer": "Carmen de la Fuente",
+    "year_of_manufacture": 1902,
+    "genre": "Tragedy, Sea Lore"
+  },
+  {
+    "title": "Helios Debt",
+    "producer": "Soren Aames",
+    "year_of_manufacture": 2129,
+    "genre": "Solar Noir"
+  },
+  {
+    "title": "The Cobblestone Code",
+    "producer": "Finnian Bell",
+    "year_of_manufacture": 1760,
+    "genre": "Clockwork Mystery"
+  },
+  {
+    "title": "Glass Horizon",
+    "producer": "Dr. Livia Santos",
+    "year_of_manufacture": 2194,
+    "genre": "Terraforming Epic"
+  },
+  {
+    "title": "The Scribe’s Pact",
+    "producer": "Rabbi Y. T. Lev",
+    "year_of_manufacture": 1347,
+    "genre": "Medieval Judaica"
+  },
+  {
+    "title": "Crimson Kaleidoscope",
+    "producer": "Greta Voss",
+    "year_of_manufacture": 1970,
+    "genre": "Spy Surrealism"
+  },
+  {
+    "title": "The Orphan Constellation",
+    "producer": "Nova Adisa",
+    "year_of_manufacture": 2150,
+    "genre": "Found-Family Space"
+  },
+  {
+    "title": "Map of Lost Smells",
+    "producer": "Olivier Roux",
+    "year_of_manufacture": 1951,
+    "genre": "Olfactory Fiction"
+  },
+  {
+    "title": "The Porcelain General",
+    "producer": "Jiang Ning",
+    "year_of_manufacture": 1644,
+    "genre": "Ming-Era Military"
+  },
+  {
+    "title": "Mercury in Retrograde",
+    "producer": "Celeste Lagos",
+    "year_of_manufacture": 2023,
+    "genre": "Astrological Rom-Com"
+  },
+  {
+    "title": "The Ink Rebellion",
+    "producer": "Elias Crowe",
+    "year_of_manufacture": 1861,
+    "genre": "Print-Culture Revolt"
+  },
+  {
+    "title": "Sapphire Warden",
+    "producer": "Cmdr. S. P. Hale",
+    "year_of_manufacture": 2172,
+    "genre": "Prison Planet"
+  },
+  {
+    "title": "The Tulip Thief",
+    "producer": "Cornelia van Rijn",
+    "year_of_manufacture": 1637,
+    "genre": "Dutch Golden-Age Crime"
+  },
+  {
+    "title": "Neon Rosary",
+    "producer": "Sister M. O’Cygnus",
+    "year_of_manufacture": 2080,
+    "genre": "Cyber-Spiritual"
+  },
+  {
+    "title": "The Ash Gardeners",
+    "producer": "Pavel Chernov",
+    "year_of_manufacture": 1969,
+    "genre": "Chernobyl Mythic"
+  },
+  {
+    "title": "Obsidian Psalm",
+    "producer": "Rev. Obi Nkosi",
+    "year_of_manufacture": 2039,
+    "genre": "Afro-Futurist Theology"
+  },
+  {
+    "title": "The Clockwork Paladin",
+    "producer": "Lady A. Blackwood",
+    "year_of_manufacture": 1881,
+    "genre": "Steampunk Chivalry"
+  },
+  {
+    "title": "Lunar Kaddish",
+    "producer": "Leah Abramov",
+    "year_of_manufacture": 2145,
+    "genre": "Moon Colony Mourning"
+  },
+  {
+    "title": "The Saffron Ledger",
+    "producer": "Ravi Shankar",
+    "year_of_manufacture": 1932,
+    "genre": "Spice Trade Epic"
+  },
+  {
+    "title": "Glass Leviathan",
+    "producer": "Dr. Mara Holt",
+    "year_of_manufacture": 2187,
+    "genre": "Oceanic Sci-Fi"
+  },
+  {
+    "title": "The Button Collector",
+    "producer": "Hazel Finch",
+    "year_of_manufacture": 1942,
+    "genre": "Quirky Historical"
+  },
+  {
+    "title": "Violet Requiem",
+    "producer": "Dmitri Volkov",
+    "year_of_manufacture": 1919,
+    "genre": "Revolutionary Tragedy"
+  },
+  {
+    "title": "The Dream Merchants of Mars",
+    "producer": "Lazlo Quinn",
+    "year_of_manufacture": 2161,
+    "genre": "Planet-Capitalism"
+  },
+  {
+    "title": "The Coal Queen",
+    "producer": "Gwenfar Lloyd",
+    "year_of_manufacture": 1842,
+    "genre": "Industrial-Era Saga"
+  },
+  {
+    "title": "Celestial Guillotine",
+    "producer": "Citizen Vrai",
+    "year_of_manufacture": 1799,
+    "genre": "French Revolutionary SF"
+  },
+  {
+    "title": "The Honey Witch",
+    "producer": "Beatrix Laurel",
+    "year_of_manufacture": 1678,
+    "genre": "Rural Fantasy"
+  },
+  {
+    "title": "Obsidian Orchard",
+    "producer": "Kai Moloka’i",
+    "year_of_manufacture": 1989,
+    "genre": "Pacific Gothic"
+  },
+  {
+    "title": "The Algorithmic Bard",
+    "producer": "AI-8472 (curated by Dr. L. Singh)",
+    "year_of_manufacture": 2099,
+    "genre": "AI-Generated Epic"
+  },
+  {
+    "title": "The Last Marionette",
+    "producer": "Pietro Bellini",
+    "year_of_manufacture": 1791,
+    "genre": "Commmedia dell’Arte Horror"
+  },
+  {
+    "title": "Glass Kingdoms",
+    "producer": "Seraphina Lux",
+    "year_of_manufacture": 2201,
+    "genre": "Prismatic Fantasy"
+  },
+  {
+    "title": "The Indigo Reckoning",
+    "producer": "Amara Dutta",
+    "year_of_manufacture": 1857,
+    "genre": "Colonial Rebellion"
+  },
+  {
+    "title": "Neon Exorcist",
+    "producer": "Father R. Kim",
+    "year_of_manufacture": 2074,
+    "genre": "Cyber-Horror"
+  },
+  {
+    "title": "The Pepper Route",
+    "producer": "Iskandar Shah",
+    "year_of_manufacture": 1512,
+    "genre": "Maritime Spice Epic"
+  },
+  {
+    "title": "The Memory Thieves",
+    "producer": "Dr. N. Memel",
+    "year_of_manufacture": 2044,
+    "genre": "Neuro-Crime"
+  },
+  {
+    "title": "Sable & Bone",
+    "producer": "Jonas Harker",
+    "year_of_manufacture": 1895,
+    "genre": "Grimdark Victorian"
+  },
+  {
+    "title": "The Sky Cartel",
+    "producer": "Lt. Cassia Reyes",
+    "year_of_manufacture": 2189,
+    "genre": "Stratospheric Noir"
+  },
+  {
+    "title": "The Porcelain Republic",
+    "producer": "Yuan Mei-ling",
+    "year_of_manufacture": 1912,
+    "genre": "Fall-of-Dynasty Saga"
+  },
+  {
+    "title": "Quantum Graveyard",
+    "producer": "Dr. H. Feynman-Cruz",
+    "year_of_manufacture": 2117,
+    "genre": "Time-Loop Mystery"
+  },
+  {
+    "title": "The Lavender Execution",
+    "producer": "Sévérine Valois",
+    "year_of_manufacture": 1793,
+    "genre": "Terror Noir"
+  },
+  {
+    "title": "The Paper Samurai",
+    "producer": "Hiroshi Origami",
+    "year_of_manufacture": 1704,
+    "genre": "Edo-Period Fantasy"
+  },
+  {
+    "title": "Crimson Atlas",
+    "producer": "Adelaide Croft",
+    "year_of_manufacture": 1936,
+    "genre": "Pulp Adventure"
+  },
+  {
+    "title": "The Glitch Cathedral",
+    "producer": "Bishop NULL",
+    "year_of_manufacture": 2199,
+    "genre": "Digital Religion"
+  },
+  {
+    "title": "The Orchid Engine",
+    "producer": "Dr. Viola Orchid",
+    "year_of_manufacture": 2086,
+    "genre": "Botanical Sci-Fi"
+  },
+  {
+    "title": "The Salt Heir",
+    "producer": "Rafael Salinas",
+    "year_of_manufacture": 1650,
+    "genre": "Spanish Baroque"
+  },
+  {
+    "title": "Neon Pilgrimage",
+    "producer": "Sister Δ-9",
+    "year_of_manufacture": 2178,
+    "genre": "Cyber-Buddhist"
+  },
+  {
+    "title": "The Cyanide Ballet",
+    "producer": "Anya Pavlova",
+    "year_of_manufacture": 1911,
+    "genre": "Imperial Russian Noir"
+  },
+  {
+    "title": "The Starlight Orphans",
+    "producer": "Nova Adisa",
+    "year_of_manufacture": 2149,
+    "genre": "Hopepunk Space"
+  },
+  {
+    "title": "The Gossamer Prison",
+    "producer": "Silke Faust",
+    "year_of_manufacture": 2059,
+    "genre": "Soft-Dystopia"
+  },
+  {
+    "title": "The Sable Scroll",
+    "producer": "Imhotep Kareem",
+    "year_of_manufacture": 1323,
+    "genre": "Pharaonic Mystery"
+  },
+  {
+    "title": "The Velvet Reckoning",
+    "producer": "Dorian Luxe",
+    "year_of_manufacture": 1975,
+    "genre": "Glam-Punk Thriller"
+  },
+  {
+    "title": "The Obsidian Hourglass",
+    "producer": "Dr. Selene Obi",
+    "year_of_manufacture": 2109,
+    "genre": "Time-Sand Epic"
+  },
+  {
+    "title": "The Canary Code",
+    "producer": "Lark Finch",
+    "year_of_manufacture": 1960,
+    "genre": "Coal-Mine Cyber"
+  },
+  {
+    "title": "The Jade Abyss",
+    "producer": "Chen Wei",
+    "year_of_manufacture": 1599,
+    "genre": "Ming Naval Epic"
+  },
+  {
+    "title": "The Glitter Guillotine",
+    "producer": "Rochelle Vee",
+    "year_of_manufacture": 2088,
+    "genre": "Hyper-Capitalist Satire"
+  },
+  {
+    "title": "The Inkblot Crown",
+    "producer": "Rorschach Jones",
+    "year_of_manufacture": 1945,
+    "genre": "Psycho-noir"
+  },
+  {
+    "title": "The Marble Orchard",
+    "producer": "Guido Skeletal",
+    "year_of_manufacture": 1891,
+    "genre": "Cemetery Whodunit"
+  },
+  {
+    "title": "The Quantum Courtesan",
+    "producer": "Madame Entanglé",
+    "year_of_manufacture": 2180,
+    "genre": "Sexy Physics"
+  },
+  {
+    "title": "The Sulfur Songs",
+    "producer": "Brimstone Choir",
+    "year_of_manufacture": 1666,
+    "genre": "Apocalyptic Baroque"
+  },
+  {
+    "title": "The Neon Monastery",
+    "producer": "Brother λ",
+    "year_of_manufacture": 2092,
+    "genre": "Cyber-Chant"
+  },
+  {
+    "title": "The Clockwork Beggar",
+    "producer": "Gearhart Tin",
+    "year_of_manufacture": 1879,
+    "genre": "Steampunk Morality"
+  },
+  {
+    "title": "The Sapphire Leviathan",
+    "producer": "Capt. N. Blue",
+    "year_of_manufacture": 1820,
+    "genre": "Whale-Fantasy"
+  },
+  {
+    "title": "The Glitch Regent",
+    "producer": "King [NULL]",
+    "year_of_manufacture": 2200,
+    "genre": "Corrupted Monarchy"
+  },
+  {
+    "title": "The Paper Phoenix",
+    "producer": "Ashley Kindle",
+    "year_of_manufacture": 2045,
+    "genre": "Post-Print Rebirth"
+  },
+  {
+    "title": "The Vermilion Vortex",
+    "producer": "Scarlet V.ortex",
+    "year_of_manufacture": 1973,
+    "genre": "Psychedelic Espionage"
+  },
+  {
+    "title": "The Iron Psalm",
+    "producer": "Smith & Wesson Monk",
+    "year_of_manufacture": 1887,
+    "genre": "Wild West Theology"
+  },
+  {
+    "title": "The Crystal Guillotine",
+    "producer": "Marie Crystal",
+    "year_of_manufacture": 1794,
+    "genre": "Transparent Terror"
+  },
+  {
+    "title": "The Obsidian Butterfly",
+    "producer": "Itzpapalotl Jones",
+    "year_of_manufacture": 1519,
+    "genre": "Aztec Steampunk"
+  },
+  {
+    "title": "The Neon Gospels",
+    "producer": "Evangelist V",
+    "year_of_manufacture": 2075,
+    "genre": "Cyber-Sermon"
+  },
+  {
+    "title": "The Salt Prophets",
+    "producer": "Brine Sisters",
+    "year_of_manufacture": 1756,
+    "genre": "Maritime Myth"
+  },
+  {
+    "title": "The Velvet Apocalypse",
+    "producer": "Plush Doom",
+    "year_of_manufacture": 1991,
+    "genre": "Soft-Fabric Endtimes"
+  },
+  {
+    "title": "The Glass Rebellion",
+    "producer": "Crystal Clear",
+    "year_of_manufacture": 1848,
+    "genre": "See-Through Revolt"
+  },
+  {
+    "title": "The Clockwork Messiah",
+    "producer": "Cog Christ",
+    "year_of_manufacture": 1890,
+    "genre": "Gearbox Redemption"
+  },
+  {
+    "title": "The Sulfur Crown",
+    "producer": "Lucifer Morn",
+    "year_of_manufacture": 1667,
+    "genre": "Infernal Politics"
+  },
+  {
+    "title": "The Quark Duchess",
+    "producer": "Lady Hadron",
+    "year_of_manufacture": 2173,
+    "genre": "Sub-Atomic Court"
+  },
+  {
+    "title": "The Canary Empress",
+    "producer": "Aurelia Yellow",
+    "year_of_manufacture": 1900,
+    "genre": "Color-Coated Intrigue"
+  },
+  {
+    "title": "The Marble Messiah",
+    "producer": "Michelangelo 2.0",
+    "year_of_manufacture": 2157,
+    "genre": "Neo-Renaissance"
+  },
+  {
+    "title": "The Obsidian Orphan",
+    "producer": "Jet Black",
+    "year_of_manufacture": 2066,
+    "genre": "Dark Found-Family"
+  },
+  {
+    "title": "The Paper Leviathan",
+    "producer": "Levi Athan",
+    "year_of_manufacture": 1944,
+    "genre": "Wartime Origami"
+  },
+  {
+    "title": "The Neon Talmud",
+    "producer": "Rabbi .exe",
+    "year_of_manufacture": 2081,
+    "genre": "Cyber-Kabbalah"
+  },
+  {
+    "title": "The Saffron Reaper",
+    "producer": "Curry Death",
+    "year_of_manufacture": 1982,
+    "genre": "Spice Thriller"
+  },
+  {
+    "title": "The Clockwork Banshee",
+    "producer": "Gear-Ghost",
+    "year_of_manufacture": 1883,
+    "genre": "Steam Wail"
+  },
+  {
+    "title": "The Glitter Inquisitor",
+    "producer": "Sparkle Torture",
+    "year_of_manufacture": 2093,
+    "genre": "Shiny Oppression"
+  },
+  {
+    "title": "The Jade Guillotine",
+    "producer": "Green Emperor",
+    "year_of_manufacture": 1645,
+    "genre": "Imperial Decapitation"
+  },
+  {
+    "title": "The Velvet Quantum",
+    "producer": "Plush Entangle",
+    "year_of_manufacture": 2188,
+    "genre": "Soft Physics"
+  },
+  {
+    "title": "The Iron Psalmody",
+    "producer": "Anvil Choir",
+    "year_of_manufacture": 1875,
+    "genre": "Metallic Hymn"
+  },
+  {
+    "title": "The Obsidian Archivist",
+    "producer": "Jet Archive",
+    "year_of_manufacture": 2070,
+    "genre": "Dark Records"
+  },
+  {
+    "title": "The Salt Cathedral",
+    "producer": "Brine Basilica",
+    "year_of_manufacture": 1692,
+    "genre": "Mineral Worship"
+  },
+  {
+    "title": "The Neon Novena",
+    "producer": "Sister LED",
+    "year_of_manufacture": 2085,
+    "genre": "Cyber-Prayer"
+  },
+  {
+    "title": "The Canary Protocol",
+    "producer": "Yellow Alert",
+    "year_of_manufacture": 2043,
+    "genre": "Toxic Espionage"
+  },
+  {
+    "title": "The Marble Memoir",
+    "producer": "Statue Memory",
+    "year_of_manufacture": 1897,
+    "genre": "Stone Memory"
+  },
+  {
+    "title": "The Quark Monastery",
+    "producer": "Friar Fermion",
+    "year_of_manufacture": 2195,
+    "genre": "Quantum Monastery"
+  },
+  {
+    "title": "The Glass Reckoning",
+    "producer": "Crystal Condemn",
+    "year_of_manufacture": 1845,
+    "genre": "Transparent Justice"
+  },
+  {
+    "title": "The Paper Paradise",
+    "producer": "Papyrus Eden",
+    "year_of_manufacture": 1953,
+    "genre": "Origami Utopia"
+  },
+  {
+    "title": "The Sulfur Saga",
+    "producer": "Brimstone Epic",
+    "year_of_manufacture": 1678,
+    "genre": "Infernal Chronicle"
+  },
+  {
+    "title": "The Clockwork Oracle",
+    "producer": "Gear Prophet",
+    "year_of_manufacture": 1899,
+    "genre": "Steam Prophecy"
+  },
+  {
+    "title": "The Velvet Guillotine",
+    "producer": "Plush Blade",
+    "year_of_manufacture": 1795,
+    "genre": "Soft Execution"
+  },
+  {
+    "title": "The Obsidian Utopia",
+    "producer": "Jet Paradise",
+    "year_of_manufacture": 2202,
+    "genre": "Dark Perfection"
+  },
+  {
+    "title": "The Neon Lullaby",
+    "producer": "LED Lull",
+    "year_of_manufacture": 2079,
+    "genre": "Cyber-Sleep"
+  },
+  {
+    "title": "The Iron Island",
+    "producer": "Ferrous Land",
+    "year_of_manufacture": 1882,
+    "genre": "Metal Utopia"
+  },
+  {
+    "title": "The Jade Memoir",
+    "producer": "Green Memory",
+    "year_of_manufacture": 1601,
+    "genre": "Gemstone Autobiography"
+  },
+  {
+    "title": "The Salt Requiem",
+    "producer": "Brine Requiem",
+    "year_of_manufacture": 1707,
+    "genre": "Maritime Dirge"
+  },
+  {
+    "title": "The Glitter Rebellion",
+    "producer": "Sparkle Revolt",
+    "year_of_manufacture": 2096,
+    "genre": "Shiny Uprising"
+  },
+  {
+    "title": "The Paper Banshee",
+    "producer": "Origami Wail",
+    "year_of_manufacture": 1977,
+    "genre": "Flat Scream"
+  },
+  {
+    "title": "The Canary Cosmos",
+    "producer": "Yellow Star",
+    "year_of_manufacture": 2184,
+    "genre": "Colorful Space"
+  },
+  {
+    "title": "The Quantum Banshee",
+    "producer": "Entangled Wail",
+    "year_of_manufacture": 2203,
+    "genre": "Superposition Scream"
+  },
+  {
+    "title": "The Velvet Cosmos",
+    "producer": "Plush Star",
+    "year_of_manufacture": 2198,
+    "genre": "Soft Universe"
+  },
+  {
+    "title": "The Clockwork Memoir",
+    "producer": "Gear Memory",
+    "year_of_manufacture": 1905,
+    "genre": "Steam Autobiography"
+  },
+  {
+    "title": "The Sulfur Memoir",
+    "producer": "Brimstone Memory",
+    "year_of_manufacture": 1680,
+    "genre": "Infernal Reminiscence"
+  },
+  {
+    "title": "The Glass Banshee",
+    "producer": "Crystal Wail",
+    "year_of_manufacture": 1893,
+    "genre": "Transparent Scream"
+  },
+  {
+    "title": "The Iron Reckoning",
+    "producer": "Ferrous Justice",
+    "year_of_manufacture": 1877,
+    "genre": "Metal Judgment"
+  },
+  {
+    "title": "The Marble Banshee",
+    "producer": "Stone Wail",
+    "year_of_manufacture": 1901,
+    "genre": "Statue Scream"
+  },
+  {
+    "title": "The Neon Memoir",
+    "producer": "LED Memory",
+    "year_of_manufacture": 2094,
+    "genre": "Cyber-Autobiography"
+  },
+  {
+    "title": "The Paper Reckoning",
+    "producer": "Origami Justice",
+    "year_of_manufacture": 1965,
+    "genre": "Flat Judgment"
+  },
+  {
+    "title": "The Salt Banshee",
+    "producer": "Brine Wail",
+    "year_of_manufacture": 1712,
+    "genre": "Maritime Scream"
+  },
+  {
+    "title": "The Jade Banshee",
+    "producer": "Green Wail",
+    "year_of_manufacture": 1610,
+    "genre": "Gemstone Scream"
+  },
+  {
+    "title": "The Quark Banshee",
+    "producer": "Particle Wail",
+    "year_of_manufacture": 2204,
+    "genre": "Quantum Scream"
+  },
+  {
+    "title": "The Saffron Cosmos",
+    "producer": "Spice Star",
+    "year_of_manufacture": 2190,
+    "genre": "Flavorful Space"
+  },
+  {
+    "title": "The Canary Reckoning",
+    "producer": "Yellow Justice",
+    "year_of_manufacture": 2051,
+    "genre": "Colorful Judgment"
+  },
+  {
+    "title": "The Clockwork Cosmos",
+    "producer": "Gear Star",
+    "year_of_manufacture": 2205,
+    "genre": "Steam Universe"
+  },
+  {
+    "title": "The Velvet Reckoning",
+    "producer": "Plush Justice",
+    "year_of_manufacture": 1985,
+    "genre": "Soft Judgment"
+  },
+  {
+    "title": "The Glitter Cosmos",
+    "producer": "Sparkle Star",
+    "year_of_manufacture": 2206,
+    "genre": "Shiny Universe"
+  },
+  {
+    "title": "The Neon Reckoning",
+    "producer": "LED Justice",
+    "year_of_manufacture": 2107,
+    "genre": "Cyber Judgment"
+  },
+  {
+    "title": "The Paper Cosmos",
+    "producer": "Origami Star",
+    "year_of_manufacture": 2207,
+    "genre": "Flat Universe"
+  },
+  {
+    "title": "The Sulfur Cosmos",
+    "producer": "Brimstone Star",
+    "year_of_manufacture": 2208,
+    "genre": "Infernal Universe"
+  },
+  {
+    "title": "The Glass Cosmos",
+    "producer": "Crystal Star",
+    "year_of_manufacture": 2209,
+    "genre": "Transparent Universe"
+  },
+  {
+    "title": "The Iron Cosmos",
+    "producer": "Ferrous Star",
+    "year_of_manufacture": 2210,
+    "genre": "Metal Universe"
+  },
+  {
+    "title": "The Marble Cosmos",
+    "producer": "Stone Star",
+    "year_of_manufacture": 2211,
+    "genre": "Mineral Universe"
+  },
+  {
+    "title": "The Salt Cosmos",
+    "producer": "Brine Star",
+    "year_of_manufacture": 2212,
+    "genre": "Maritime Universe"
+  },
+  {
+    "title": "The Jade Cosmos",
+    "producer": "Green Star",
+    "year_of_manufacture": 2213,
+    "genre": "Gemstone Universe"
+  },
+  {
+    "title": "The Obsidian Cosmos",
+    "producer": "Jet Star",
+    "year_of_manufacture": 2214,
+    "genre": "Dark Universe"
+  },
+  {
+    "title": "The Velvet Banshee",
+    "producer": "Plush Wail",
+    "year_of_manufacture": 1999,
+    "genre": "Soft Scream"
+  },
+  {
+    "title": "The Canary Banshee",
+    "producer": "Yellow Wail",
+    "year_of_manufacture": 2061,
+    "genre": "Colorful Scream"
+  },
+  {
+    "title": "The Quark Reckoning",
+    "producer": "Particle Justice",
+    "year_of_manufacture": 2215,
+    "genre": "Quantum Judgment"
+  },
+  {
+    "title": "The Saffron Banshee",
+    "producer": "Spice Wail",
+    "year_of_manufacture": 2087,
+    "genre": "Flavorful Scream"
+  },
+  {
+    "title": "The Glitter Banshee",
+    "producer": "Sparkle Wail",
+    "year_of_manufacture": 2111,
+    "genre": "Shiny Scream"
+  },
+  {
+    "title": "The Clockwork Banshee",
+    "producer": "Gear Wail",
+    "year_of_manufacture": 1927,
+    "genre": "Steam Scream"
+  },
+  {
+    "title": "The Paper Banshee",
+    "producer": "Origami Wail",
+    "year_of_manufacture": 1988,
+    "genre": "Flat Scream"
+  },
+  {
+    "title": "The Neon Banshee",
+    "producer": "LED Wail",
+    "year_of_manufacture": 2100,
+    "genre": "Cyber Scream"
+  },
+  {
+    "title": "The Iron Banshee",
+    "producer": "Ferrous Wail",
+    "year_of_manufacture": 1949,
+    "genre": "Metal Scream"
+  },
+  {
+    "title": "The Glass Banshee",
+    "producer": "Crystal Wail",
+    "year_of_manufacture": 1893,
+    "genre": "Transparent Scream"
+  },
+  {
+    "title": "The Sulfur Banshee",
+    "producer": "Brimstone Wail",
+    "year_of_manufacture": 1693,
+    "genre": "Infernal Scream"
+  },
+  {
+    "title": "The Marble Banshee",
+    "producer": "Stone Wail",
+    "year_of_manufacture": 1901,
+    "genre": "Statue Scream"
+  },
+  {
+    "title": "The Salt Banshee",
+    "producer": "Brine Wail",
+    "year_of_manufacture": 1712,
+    "genre": "Maritime Scream"
+  },
+  {
+    "title": "The Jade Banshee",
+    "producer": "Green Wail",
+    "year_of_manufacture": 1610,
+    "genre": "Gemstone Scream"
+  },
+  {
+    "title": "The Quark Banshee",
+    "producer": "Particle Wail",
+    "year_of_manufacture": 2204,
+    "genre": "Quantum Scream"
+  },
+  {
+    "title": "The Velvet Reckoning",
+    "producer": "Plush Justice",
+    "year_of_manufacture": 1985,
+    "genre": "Soft Judgment"
+  },
+  {
+    "title": "The Canary Reckoning",
+    "producer": "Yellow Justice",
+    "year_of_manufacture": 2051,
+    "genre": "Colorful Judgment"
+  },
+  {
+    "title": "The Glitter Reckoning",
+    "producer": "Sparkle Justice",
+    "year_of_manufacture": 2116,
+    "genre": "Shiny Judgment"
+  },
+  {
+    "title": "The Clockwork Reckoning",
+    "producer": "Gear Justice",
+    "year_of_manufacture": 1931,
+    "genre": "Steam Judgment"
+  },
+  {
+    "title": "The Paper Reckoning",
+    "producer": "Origami Justice",
+    "year_of_manufacture": 1965,
+    "genre": "Flat Judgment"
+  },
+  {
+    "title": "The Neon Reckoning",
+    "producer": "LED Justice",
+    "year_of_manufacture": 2107,
+    "genre": "Cyber Judgment"
+  },
+  {
+    "title": "The Iron Reckoning",
+    "producer": "Ferrous Justice",
+    "year_of_manufacture": 1877,
+    "genre": "Metal Judgment"
+  },
+  {
+    "title": "The Glass Reckoning",
+    "producer": "Crystal Justice",
+    "year_of_manufacture": 1845,
+    "genre": "Transparent Judgment"
+  },
+  {
+    "title": "The Sulfur Reckoning",
+    "producer": "Brimstone Justice",
+    "year_of_manufacture": 1685,
+    "genre": "Infernal Judgment"
+  },
+  {
+    "title": "The Marble Reckoning",
+    "producer": "Stone Justice",
+    "year_of_manufacture": 1909,
+    "genre": "Mineral Judgment"
+  },
+  {
+    "title": "The Salt Reckoning",
+    "producer": "Brine Justice",
+    "year_of_manufacture": 1720,
+    "genre": "Maritime Judgment"
+  },
+  {
+    "title": "The Jade Reckoning",
+    "producer": "Green Justice",
+    "year_of_manufacture": 1618,
+    "genre": "Gemstone Judgment"
+  },
+  {
+    "title": "The Obsidian Reckoning",
+    "producer": "Jet Justice",
+    "year_of_manufacture": 2072,
+    "genre": "Dark Judgment"
+  },
+  {
+    "title": "The Quark Reckoning",
+    "producer": "Particle Justice",
+    "year_of_manufacture": 2215,
+    "genre": "Quantum Judgment"
+  },
+  {
+    "title": "The Saffron Reckoning",
+    "producer": "Spice Justice",
+    "year_of_manufacture": 2091,
+    "genre": "Flavorful Judgment"
+  },
+  {
+    "title": "The Velvet Cosmos",
+    "producer": "Plush Star",
+    "year_of_manufacture": 2198,
+    "genre": "Soft Universe"
+  },
+  {
+    "title": "The Canary Cosmos",
+    "producer": "Yellow Star",
+    "year_of_manufacture": 2184,
+    "genre": "Colorful Space"
+  },
+  {
+    "title": "The Glitter Cosmos",
+    "producer": "Sparkle Star",
+    "year_of_manufacture": 2206,
+    "genre": "Shiny Universe"
+  },
+  {
+    "title": "The Clockwork Cosmos",
+    "producer": "Gear Star",
+    "year_of_manufacture": 2205,
+    "genre": "Steam Universe"
+  },
+  {
+    "title": "The Paper Cosmos",
+    "producer": "Origami Star",
+    "year_of_manufacture": 2207,
+    "genre": "Flat Universe"
+  },
+  {
+    "title": "The Neon Cosmos",
+    "producer": "LED Star",
+    "year_of_manufacture": 2216,
+    "genre": "Cyber Universe"
+  },
+  {
+    "title": "The Iron Cosmos",
+    "producer": "Ferrous Star",
+    "year_of_manufacture": 2210,
+    "genre": "Metal Universe"
+  },
+  {
+    "title": "The Glass Cosmos",
+    "producer": "Crystal Star",
+    "year_of_manufacture": 2209,
+    "genre": "Transparent Universe"
+  },
+  {
+    "title": "The Sulfur Cosmos",
+    "producer": "Brimstone Star",
+    "year_of_manufacture": 2208,
+    "genre": "Infernal Universe"
+  },
+  {
+    "title": "The Marble Cosmos",
+    "producer": "Stone Star",
+    "year_of_manufacture": 2211,
+    "genre": "Mineral Universe"
+  },
+  {
+    "title": "The Salt Cosmos",
+    "producer": "Brine Star",
+    "year_of_manufacture": 2212,
+    "genre": "Maritime Universe"
+  },
+  {
+    "title": "The Jade Cosmos",
+    "producer": "Green Star",
+    "year_of_manufacture": 2213,
+    "genre": "Gemstone Universe"
+  },
+  {
+    "title": "The Obsidian Cosmos",
+    "producer": "Jet Star",
+    "year_of_manufacture": 2214,
+    "genre": "Dark Universe"
+  },
+  {
+    "title": "The Quark Cosmos",
+    "producer": "Particle Star",
+    "year_of_manufacture": 2217,
+    "genre": "Quantum Universe"
+  },
+  {
+    "title": "The Saffron Cosmos",
+    "producer": "Spice Star",
+    "year_of_manufacture": 2190,
+    "genre": "Flavorful Universe"
+  },
+  {
+    "title": "The Velvet Memoir",
+    "producer": "Plush Memory",
+    "year_of_manufacture": 2005,
+    "genre": "Soft Autobiography"
+  },
+  {
+    "title": "The Canary Memoir",
+    "producer": "Yellow Memory",
+    "year_of_manufacture": 2077,
+    "genre": "Colorful Reminiscence"
+  },
+  {
+    "title": "The Glitter Memoir",
+    "producer": "Sparkle Memory",
+    "year_of_manufacture": 2129,
+    "genre": "Shiny Reminiscence"
+  },
+  {
+    "title": "The Clockwork Memoir",
+    "producer": "Gear Memory",
+    "year_of_manufacture": 1905,
+    "genre": "Steam Autobiography"
+  },
+  {
+    "title": "The Paper Memoir",
+    "producer": "Origami Memory",
+    "year_of_manufacture": 1972,
+    "genre": "Flat Reminiscence"
+  },
+  {
+    "title": "The Neon Memoir",
+    "producer": "LED Memory",
+    "year_of_manufacture": 2094,
+    "genre": "Cyber Autobiography"
+  },
+  {
+    "title": "The Iron Memoir",
+    "producer": "Ferrous Memory",
+    "year_of_manufacture": 1957,
+    "genre": "Metal Reminiscence"
+  },
+  {
+    "title": "The Glass Memoir",
+    "producer": "Crystal Memory",
+    "year_of_manufacture": 1921,
+    "genre": "Transparent Reminiscence"
+  },
+  {
+    "title": "The Sulfur Memoir",
+    "producer": "Brimstone Memory",
+    "year_of_manufacture": 1680,
+    "genre": "Infernal Reminiscence"
+  },
+  {
+    "title": "The Marble Memoir",
+    "producer": "Stone Memory",
+    "year_of_manufacture": 1937,
+    "genre": "Mineral Autobiography"
+  },
+  {
+    "title": "The Salt Memoir",
+    "producer": "Brine Memory",
+    "year_of_manufacture": 1738,
+    "genre": "Maritime Reminiscence"
+  },
+  {
+    "title": "The Jade Memoir",
+    "producer": "Green Memory",
+    "year_of_manufacture": 1629,
+    "genre": "Gemstone Reminiscence"
+  },
+  {
+    "title": "The Obsidian Memoir",
+    "producer": "Jet Memory",
+    "year_of_manufacture": 2082,
+    "genre": "Dark Reminiscence"
+  },
+  {
+    "title": "The Quark Memoir",
+    "producer": "Particle Memory",
+    "year_of_manufacture": 2218,
+    "genre": "Quantum Autobiography"
+  },
+  {
+    "title": "The Saffron Memoir",
+    "producer": "Spice Memory",
+    "year_of_manufacture": 2103,
+    "genre": "Flavorful Reminiscence"
+  },
+  {
+    "title": "The Velvet Reckoning",
+    "producer": "Plush Justice",
+    "year_of_manufacture": 1985,
+    "genre": "Soft Judgment"
+  },
+  {
+    "title": "The Canary Reckoning",
+    "producer": "Yellow Justice",
+    "year_of_manufacture": 2051,
+    "genre": "Colorful Judgment"
+  },
+  {
+    "title": "The Glitter Reckoning",
+    "producer": "Sparkle Justice",
+    "year_of_manufacture": 2116,
+    "genre": "Shiny Judgment"
+  },
+  {
+    "title": "The Clockwork Reckoning",
+    "producer": "Gear Justice",
+    "year_of_manufacture": 1931,
+    "genre": "Steam Judgment"
+  },
+  {
+    "title": "The Paper Reckoning",
+    "producer": "Origami Justice",
+    "year_of_manufacture": 1965,
+    "genre": "Flat Judgment"
+  },
+  {
+    "title": "The Neon Reckoning",
+    "producer": "LED Justice",
+    "year_of_manufacture": 2107,
+    "genre": "Cyber Judgment"
+  },
+  {
+    "title": "The Iron Reckoning",
+    "producer": "Ferrous Justice",
+    "year_of_manufacture": 1877,
+    "genre": "Metal Judgment"
+  },
+  {
+    "title": "The Glass Reckoning",
+    "producer": "Crystal Justice",
+    "year_of_manufacture": 1845,
+    "genre": "Transparent Judgment"
+  },
+  {
+    "title": "The Sulfur Reckoning",
+    "producer": "Brimstone Justice",
+    "year_of_manufacture": 1685,
+    "genre": "Infernal Judgment"
+  },
+  {
+    "title": "The Marble Reckoning",
+    "producer": "Stone Justice",
+    "year_of_manufacture": 1909,
+    "genre": "Mineral Judgment"
+  },
+  {
+    "title": "The Salt Reckoning",
+    "producer": "Brine Justice",
+    "year_of_manufacture": 1720,
+    "genre": "Maritime Judgment"
+  },
+  {
+    "title": "The Jade Reckoning",
+    "producer": "Green Justice",
+    "year_of_manufacture": 1618,
+    "genre": "Gemstone Judgment"
+  },
+  {
+    "title": "The Obsidian Reckoning",
+    "producer": "Jet Justice",
+    "year_of_manufacture": 2072,
+    "genre": "Dark Judgment"
+  },
+  {
+    "title": "The Quark Reckoning",
+    "producer": "Particle Justice",
+    "year_of_manufacture": 2215,
+    "genre": "Quantum Judgment"
+  },
+  {
+    "title": "The Saffron Reckoning",
+    "producer": "Spice Justice",
+    "year_of_manufacture": 2091,
+    "genre": "Flavorful Judgment"
+  },
+  {
+    "title": "The Velvet Banshee",
+    "producer": "Plush Wail",
+    "year_of_manufacture": 1999,
+    "genre": "Soft Scream"
+  },
+  {
+    "title": "The Canary Banshee",
+    "producer": "Yellow Wail",
+    "year_of_manufacture": 2061,
+    "genre": "Colorful Scream"
+  },
+  {
+    "title": "The Glitter Banshee",
+    "producer": "Sparkle Wail",
+    "year_of_manufacture": 2111,
+    "genre": "Shiny Scream"
+  },
+  {
+    "title": "The Clockwork Banshee",
+    "producer": "Gear Wail",
+    "year_of_manufacture": 1927,
+    "genre": "Steam Scream"
+  },
+  {
+    "title": "The Paper Banshee",
+    "producer": "Origami Wail",
+    "year_of_manufacture": 1988,
+    "genre": "Flat Scream"
+  },
+  {
+    "title": "The Neon Banshee",
+    "producer": "LED Wail",
+    "year_of_manufacture": 2100,
+    "genre": "Cyber Scream"
+  },
+  {
+    "title": "The Iron Banshee",
+    "producer": "Ferrous Wail",
+    "year_of_manufacture": 1949,
+    "genre": "Metal Scream"
+  },
+  {
+    "title": "The Glass Banshee",
+    "producer": "Crystal Wail",
+    "year_of_manufacture": 1893,
+    "genre": "Transparent Scream"
+  },
+  {
+    "title": "The Sulfur Banshee",
+    "producer": "Brimstone Wail",
+    "year_of_manufacture": 1693,
+    "genre": "Infernal Scream"
+  },
+  {
+    "title": "The Marble Banshee",
+    "producer": "Stone Wail",
+    "year_of_manufacture": 1901,
+    "genre": "Statue Scream"
+  },
+  {
+    "title": "The Salt Banshee",
+    "producer": "Brine Wail",
+    "year_of_manufacture": 1712,
+    "genre": "Maritime Scream"
+  },
+  {
+    "title": "The Jade Banshee",
+    "producer": "Green Wail",
+    "year_of_manufacture": 1610,
+    "genre": "Gemstone Scream"
+  },
+  {
+    "title": "The Quark Banshee",
+    "producer": "Particle Wail",
+    "year_of_manufacture": 2204,
+    "genre": "Quantum Scream"
+  },
+  {
+    "title": "The Saffron Banshee",
+    "producer": "Spice Wail",
+    "year_of_manufacture": 2087,
+    "genre": "Flavorful Scream"
+  },
+  {
+    "title": "The Velvet Memoir",
+    "producer": "Plush Memory",
+    "year_of_manufacture": 2005,
+    "genre": "Soft Autobiography"
+  },
+  {
+    "title": "The Canary Memoir",
+    "producer": "Yellow Memory",
+    "year_of_manufacture": 2077,
+    "genre": "Colorful Reminiscence"
+  },
+  {
+    "title": "The Glitter Memoir",
+    "producer": "Sparkle Memory",
+    "year_of_manufacture": 2129,
+    "genre": "Shiny Reminiscence"
+  },
+  {
+    "title": "The Clockwork Memoir",
+    "producer": "Gear Memory",
+    "year_of_manufacture": 1905,
+    "genre": "Steam Autobiography"
+  },
+  {
+    "title": "The Paper Memoir",
+    "producer": "Origami Memory",
+    "year_of_manufacture": 1972,
+    "genre": "Flat Reminiscence"
+  },
+  {
+    "title": "The Neon Memoir",
+    "producer": "LED Memory",
+    "year_of_manufacture": 2094,
+    "genre": "Cyber Autobiography"
+  },
+  {
+    "title": "The Iron Memoir",
+    "producer": "Ferrous Memory",
+    "year_of_manufacture": 1957,
+    "genre": "Metal Reminiscence"
+  },
+  {
+    "title": "The Glass Memoir",
+    "producer": "Crystal Memory",
+    "year_of_manufacture": 1921,
+    "genre": "Transparent Reminiscence"
+  },
+  {
+    "title": "The Sulfur Memoir",
+    "producer": "Brimstone Memory",
+    "year_of_manufacture": 1680,
+    "genre": "Infernal Reminiscence"
+  },
+  {
+    "title": "The Marble Memoir",
+    "producer": "Stone Memory",
+    "year_of_manufacture": 1937,
+    "genre": "Mineral Autobiography"
+  },
+  {
+    "title": "The Salt Memoir",
+    "producer": "Brine Memory",
+    "year_of_manufacture": 1738,
+    "genre": "Maritime Reminiscence"
+  },
+  {
+    "title": "The Jade Memoir",
+    "producer": "Green Memory",
+    "year_of_manufacture": 1629,
+    "genre": "Gemstone Reminiscence"
+  },
+  {
+    "title": "The Obsidian Memoir",
+    "producer": "Jet Memory",
+    "year_of_manufacture": 2082,
+    "genre": "Dark Reminiscence"
+  },
+  {
+    "title": "The Quark Memoir",
+    "producer": "Particle Memory",
+    "year_of_manufacture": 2218,
+    "genre": "Quantum Autobiography"
+  },
+  {
+    "title": "The Saffron Memoir",
+    "producer": "Spice Memory",
+    "year_of_manufacture": 2103,
+    "genre": "Flavorful Reminiscence"
+  }
+]
