@@ -10,14 +10,14 @@ import java.util.Map;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class JsonReaderPerformanceTest {
-    private static final String TEST_PATH = "./data";
+    private static final String TEST_PATH = "./src/main/resources";
     private static final String TEST_ATTRIBUTE = "genre";
 
     @Test
     @BeforeEach
     void setUp() {
         assertTrue(Files.exists(Paths.get(TEST_PATH)),
-                "Test data directory must exist: " + TEST_PATH);
+                "Test resources directory must exist: " + TEST_PATH);
     }
 
     @Test

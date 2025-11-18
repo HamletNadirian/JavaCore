@@ -35,8 +35,7 @@ public class App {
         }
         try {
             Map<String, Integer> statisticsDate =
-                    JsonReader.calculateStatistics(path, attribute, Runtime.getRuntime().availableProcessors()
-                    );
+                    JsonReader.calculateStatistics(path, attribute, Runtime.getRuntime().availableProcessors());
             WriteToXml.writeStatisticsToXml(statisticsDate, attribute);
             System.out.println("Ready! Created file statistics_by_" + attribute + ".xml");
         } catch (Exception e) {
