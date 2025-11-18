@@ -41,7 +41,7 @@ public class JsonReader {
         }
     }
 
-    public static Map<String, Integer> processFiles(
+    public static Map<String, Integer> calculateStatistics(
             String path,
             String attribute,
             int threadCount) throws Exception {

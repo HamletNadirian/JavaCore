@@ -2,12 +2,9 @@ package org.profITsoft;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.ValueSource;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.sql.SQLOutput;
 import java.util.Map;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -29,10 +26,10 @@ public class JsonReaderPerformanceTest {
 
         System.out.println("Performance Benchmark");
         for (int threadCount : threadCounts) {
-            JsonReader.processFiles(TEST_PATH, TEST_ATTRIBUTE, threadCount);
+            JsonReader.calculateStatistics(TEST_PATH, TEST_ATTRIBUTE, threadCount);
 
             long startTime = System.currentTimeMillis();
-            Map<String, Integer> result = JsonReader.processFiles(
+            Map<String, Integer> result = JsonReader.calculateStatistics(
                     TEST_PATH,
                     TEST_ATTRIBUTE,
                     threadCount
@@ -45,8 +42,8 @@ public class JsonReaderPerformanceTest {
     }
     @Test
     void testCorrectness()throws Exception{
-        Map<String,Integer> resultOneThread = JsonReader.processFiles(TEST_PATH,TEST_ATTRIBUTE,1);
-        Map<String,Integer> resultEightThreads = JsonReader.processFiles(TEST_PATH,TEST_ATTRIBUTE,8);
+        Map<String,Integer> resultOneThread = JsonReader.calculateStatistics(TEST_PATH,TEST_ATTRIBUTE,1);
+        Map<String,Integer> resultEightThreads = JsonReader.calculateStatistics(TEST_PATH,TEST_ATTRIBUTE,8);
 
         assertEquals(resultOneThread.size(),resultEightThreads.size(),
                 "Results should be identical");

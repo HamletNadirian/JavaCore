@@ -26,7 +26,7 @@ public class JsonReaderTest {
                 """;
         Files.writeString(testFile,jsonContent);
 
-        Map<String,Integer> result = JsonReader.processFiles(
+        Map<String,Integer> result = JsonReader.calculateStatistics(
                 testDir.toString(),
                 "genre",
                 16
