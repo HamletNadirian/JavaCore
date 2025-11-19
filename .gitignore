@@ -4,3 +4,6 @@
 *.iml
 .idea/
 *.jar
+# Maven Shade / Assembly plugin garbage
+dependency-reduced-pom.xml
+target/
