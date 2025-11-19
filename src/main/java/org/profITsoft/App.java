@@ -16,7 +16,7 @@ public class App {
         if (args.length < 2) {
             System.out.println("You should 2 arguments use <path> <attribute>");
             System.err.println("Available attributes:" + String.join(", ", VALID_ATTRIBUTES));
-            System.out.println("For example: java JavaCore ./data genre");
+            System.out.println("For example: java JavaCore ./src/main/resources genre");
             exit(1);
         }
 
