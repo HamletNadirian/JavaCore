@@ -9,7 +9,7 @@ public class CalculationOfStatistics {
 
         String key = switch (attribute) {
             case "title" -> movie.getTitle();
-            case "year" -> String.valueOf(movie.getYear_of_manufacture());
+            case "date" -> String.valueOf(movie.getReleaseDate());
             case "producer" -> movie.getProducer();
             case "genre" -> movie.getGenre();
             default -> throw new IllegalArgumentException("Unknown attribute: " + attribute);

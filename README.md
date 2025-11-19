@@ -40,4 +40,4 @@ java -jar .\target\JavaCore-1.0-SNAPSHOT.jar .\src\main\resources producer
 java -jar JavaCore-1.0-SNAPSHOT.jar ..\src\main\resources producer
 
 За роком випуску
-java -jar JavaCore-1.0-SNAPSHOT.jar ..\src\main\resources year
+java -jar JavaCore-1.0-SNAPSHOT.jar ..\src\main\resources date

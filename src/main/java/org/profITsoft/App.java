@@ -9,7 +9,7 @@ import static java.lang.System.exit;
 
 public class App {
 
-    private static final Set<String> VALID_ATTRIBUTES = Set.of("title", "year", "producer", "genre");
+    private static final Set<String> VALID_ATTRIBUTES = Set.of("title", "date", "producer", "genre");
 
     public static void main(String[] args) throws Exception {
 

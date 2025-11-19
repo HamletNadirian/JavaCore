@@ -20,8 +20,8 @@ public class JsonReaderTest {
         Path testFile = testDir.resolve("test.json");
         String jsonContent = """
                 [
-                {"title": "The Clockmaker of Briar Lane", "producer": "Piers Ashcombe", "year_of_manufacture": 1889, "genre": "Steampunk, Adventure" },
-                  {"title": "Salt of the Moon", "producer": "Talia Okeke", "year_of_manufacture": 1994, "genre": "Magical Realism" }
+                {"title": "The Clockmaker of Briar Lane", "producer": "Piers Ashcombe", "releaseDate": 1889, "genre": "Steampunk, Adventure" },
+                  {"title": "Salt of the Moon", "producer": "Talia Okeke", "releaseDate": 1994, "genre": "Magical Realism" }
                 ]
                 """;
         Files.writeString(testFile,jsonContent);

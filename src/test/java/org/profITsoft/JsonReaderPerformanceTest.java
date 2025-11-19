@@ -40,14 +40,15 @@ public class JsonReaderPerformanceTest {
             assertNotNull(result);
         }
     }
-    @Test
-    void testCorrectness()throws Exception{
-        Map<String,Integer> resultOneThread = JsonReader.calculateStatistics(TEST_PATH,TEST_ATTRIBUTE,1);
-        Map<String,Integer> resultEightThreads = JsonReader.calculateStatistics(TEST_PATH,TEST_ATTRIBUTE,8);
 
-        assertEquals(resultOneThread.size(),resultEightThreads.size(),
+    @Test
+    void testCorrectness() throws Exception {
+        Map<String, Integer> resultOneThread = JsonReader.calculateStatistics(TEST_PATH, TEST_ATTRIBUTE, 1);
+        Map<String, Integer> resultEightThreads = JsonReader.calculateStatistics(TEST_PATH, TEST_ATTRIBUTE, 8);
+
+        assertEquals(resultOneThread.size(), resultEightThreads.size(),
                 "Results should be identical");
-        assertEquals(resultOneThread,resultEightThreads,
+        assertEquals(resultOneThread, resultEightThreads,
                 "Results should match!");
 
     }

@@ -40,8 +40,8 @@ public class WriteToXml {
         Path projectRoot = Path.of("").toAbsolutePath();
 
         File outputDir = projectRoot.resolve("output").toFile();
-        if (!outputDir.exists()&&!outputDir.mkdirs()){
-            throw new RuntimeException("Failed to create output directory:"+outputDir.getAbsolutePath());
+        if (!outputDir.exists() && !outputDir.mkdirs()) {
+            throw new RuntimeException("Failed to create output directory:" + outputDir.getAbsolutePath());
         }
 
         File xmlFile = new File(outputDir, "statistics_by_" + attribute + ".xml");
