@@ -31,7 +31,7 @@ run.bat
 Проект має бути попередньо зібраний! Наприклад, за допомогою команди mvn package.
 java -jar .\target\JavaCore-1.0-SNAPSHOT.jar .\src\main\resources producer
 ```
-Результат: Буде згенеровано файл statistics_by_genre.xml в каталозі **output**
+Результат: Буде згенеровано файл statistics_by_producer.xml в каталозі **output**
 
 **Додаткова інформація
 Інші доступні атрибути для аналізу:**
